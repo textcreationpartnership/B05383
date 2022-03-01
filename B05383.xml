@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters of intercommuning against persons declared fugitives for not compearing to answer for conventicles, &amp;c.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05383</idno>
+            <idno type="STC">Wing S1510A</idno>
+            <idno type="STC">ESTC R183074</idno>
+            <idno type="EEBO-CITATION">52612434</idno>
+            <idno type="OCLC">ocm 52612434</idno>
+            <idno type="VID">179571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179571)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters of intercommuning against persons declared fugitives for not compearing to answer for conventicles, &amp;c.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh, the sixth day of August, one thousand six hundred seventy and five years, and of Our Reign, the twenty seventh year.</note>
+                  <note>Signed: Al. Gibson, Cl. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Assembly, Right of --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179571:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+               </figure>
+            </head>
+            <head>LETTERS OF INTERCOMMUNING Againſt Perſons declared Fugitives for not compearing to anſwer for CONVENTICLES, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Brittain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, To Our Lovits, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Macers or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting; Foraſmuch as, upon the twenty fifth, twenty ſeventh, twenty eight, twenty ninth, and thirty days of <hi>July,</hi> one thouſand ſix hundred and ſeventy four years, the Perſons underwritten were at the Mercat Croſſes of <hi>Haddingtoun. Lanerk, Cowper, Perth, Dumfermling, Stirling, Glaſgow, Linlithgow,</hi> and <hi>Edinburgh,</hi> ſucceſſive and reſpective orderly denounced Our Rebels, and put to Our Horn, by vertue of letters of denounciation raiſed, uſed and execute at the inſtance of Our truſty and well-beloved Councellor, <hi>Sir John Nisbet</hi> of <hi>Dirletoun</hi> Knight, Our Advcat, for Our intereſt, for their not compearing perſonally before the Lords of Our Privy Council upon the ſixteenth day of <hi>July,</hi> the ſaid year 1674. to have an<g ref="char:EOLhyphen"/>ſwered and underlyen the Law, for their keeping, and being preſent at Houſe and Field-Conventicles, at the places following, and con<g ref="char:EOLhyphen"/>vocating people thereto, <hi>Viz.</hi> at <hi>Enderask, Edmonſtoun Chapel, Wolmet, Corſtorphine, Magdalen Chapel,</hi> and other places, or one or other of them, or near to them; and for their contemptuous invading and intruding themſelves in the Pulpits and Churches of <hi>Cramond, Forgune, Kirkmahoe,</hi> and others, in the moneths of <hi>April, May,</hi> and <hi>June,</hi> the ſaid year 1674. contrair to the Laws and Acts of Parlia<g ref="char:EOLhyphen"/>ment made thereagainſt, in manner and at length ſpecified in the principal complaint raiſed againſt them thereanent; <hi>Viz:</hi> Mr. <hi>David Williamſon,</hi> Mr. <hi>Alexander Moncrief,</hi> Mr. <hi>William Wiſhart,</hi> Mr. <hi>Thomas Hog,</hi> in <hi>Roſſe,</hi> Mr. <hi>George Johnstoun,</hi> Mr. <hi>Robert Gilleſpy,</hi> Mr. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Mckillikin</hi> in <hi>Roſſe,</hi> Mr. <hi>John Roſſe,</hi> Mr. <hi>Thomas Hog</hi> in <hi>Stirling Shire,</hi> Mr. <hi>William Erskin</hi> in <hi>Tiviotdale,</hi> Mr. <hi>James Donaldſon,</hi> Mr. <hi>Andrew Anderſon,</hi> Mr. <hi>Andrew Mortoun,</hi> Mr. <hi>Donald Cargill,</hi> Mr. <hi>Robert Maxwels</hi> elder and younger, and <hi>James Frazer</hi> of <hi>Braes.</hi> And ſiklike, upon the fourth and ſixth days of <hi>July,</hi> the ſaid year 1674. the perſons underwritten were at the Mer<g ref="char:EOLhyphen"/>cat Croſſes of <hi>Cowper, Falkland,</hi> and <hi>Perth,</hi> ſucceſſive and reſpective orderly denounced Our Rebels, and put to Our Horn, by ver<g ref="char:EOLhyphen"/>tue of Letters of denounciation, raiſed uſed and execute at the inſtance of Our ſaid Advocat for Our intereſt againſt them, for their not compearing perſonally before the Lords of Our Privy Council, upon the twenty fifth day of <hi>June,</hi> the ſaid year 1674. to have anſwered and underlyen the Law, for their keeping and being preſent at Houſe or Field Conventicles, at <hi>Pitſcottie, Mure, Rauenshugh, Kinkell, Balmeanoch</hi> and other places, and convocating perſons thereto, and for reſetting and entertaining outed Miniſters in the Parochs of <hi>Stramiglo, Abernethy,</hi> and <hi>Auchtermuchty,</hi> in the moneth of <hi>April, May</hi> and <hi>June,</hi> the ſaid year 1674. contrair to Laws and Acts of Parliament m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de thereagainſt in manner and at length ſpecified in the principal complaint raiſed againſt them thereanent; <hi>Viz.</hi> Sir <hi>John Kirkaldy</hi> of <hi>Grange</hi> elder, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Hamiltoun</hi> of <hi>Kinkell, James Hamiltoun</hi> his brother, <hi>John Geddy</hi> in <hi>Falkland, John Arnottes</hi> of <hi>Pitgrumzies</hi> elder and younger, <hi>Archibald Arnot</hi> in <hi>Newburgh</hi> Mr. <hi>Thomas Arnot</hi> in <hi>Colleſſy, Andrew Arnot</hi> Merchant in <hi>Kirkaldy, Thomas Shaw</hi> elder of <hi>Goſpitrie, David Shaw</hi> his Son, <hi>Hary Shaw</hi> in <hi>Balognie, George Fleming</hi> in <hi>Balbuthie, William She<g ref="char:EOLhyphen"/>thrum</hi> in <hi>Lundimil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, John Miller</hi> in <hi>Dinork, Andrew Kinnier</hi> Merchant in <hi>St. Andrews, John Thomſon</hi> in <hi>Fawfeild,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Gowan</hi> in <hi>Criel, Robert Herbertſon</hi> in <hi>Tarbet,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Dowglas</hi> portioner of <hi>Colſey.</hi> As alſo upon the fifeeen, and ſix<g ref="char:EOLhyphen"/>teen days of <hi>July,</hi> the ſaid year 1674. the perſons underwritten, were at the Mercat Croſſes of <hi>Cowper</hi> and <hi>Forfar</hi> ſucceſſive and re<g ref="char:EOLhyphen"/>ſpective orderly denounced Our Rebels, and put to Our Horn, by vertue of Letters of denounciation, raiſed, uſed and executed, at the inſtance of Our ſaid Advocat, for Our intereſt, for their not compearing perſonally before the Lords of Our Privy Council, upon the ninth day of <hi>July,</hi> the ſaid year 1674. to have anſwered and underlyen the Law, for their keeping and being preſent at Houſe and Field-Conventicles, at <hi>Dumfermling, Cleiſh, Orvall,</hi> and others; and for their inviting and countenancing outed Miniſters in their inva<g ref="char:EOLhyphen"/>ſion, and intruſion upon the Kirks and Pulpi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <hi>Forgune, Balmerinoch Colleſſey, Moonſey,</hi> and <hi>Auchtermuchty,</hi> and hearing them preach and pray therein, and for harbouring, reſetring, and entertaining Mr. <hi>John Welſh,</hi> a declared and proclaimed traitor, in their Houſes and elſewhere, and conducting and convoying him thorow ſeveral places in <hi>Fyffe,</hi> in an hoſtile manner, and threatning theſe who ſhould apprehend, moleſt and interrupt the ſaid Mr. <hi>John Welſh</hi> and others in his companie; in the moneths of <hi>April, May</hi> and <hi>June,</hi> the ſaid year, 1674. contrair to the Laws and Acts of Parliament made thereagainſt, in manner and at length ſpecified in the principal com<g ref="char:EOLhyphen"/>plaint raiſed againſt them thereanent, <hi>Viz. Thomas Blyth,</hi> heritor in <hi>Kennoway Paroch,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Weymes, Lady Colvill,
+<pb facs="tcp:179571:2"/>
+                  <pb facs="tcp:179571:2"/>John Adam</hi> Baily of <hi>Stramiglo, James Pryd</hi> in nether <hi>
+                  <g ref="char:V">Ʋ</g>rquhart, David Coventrie</hi> in <hi>Arlary, John Henderſon</hi> there, <hi>Robert Stark</hi> in the Milnes of <hi>Forth, VVilliam Page</hi> in <hi>Cowper</hi> of <hi>Fyffe, John White</hi> there, <hi>Richard Clidſdale</hi> there <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lady <hi>Bal<g ref="char:EOLhyphen"/>canquell,</hi> Collonel <hi>Robert Halket, John Smith</hi> in <hi>Dundie, John Balfour</hi> in <hi>Lethum, Alexander Walker</hi> in <hi>Friertous, George Spence</hi> in <hi>For<g ref="char:EOLhyphen"/>del, Patrick Melvill</hi> in the <hi>Burnſide,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Wardlaw</hi> heritor in <hi>Kirktoun,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Colvill,</hi> Lady <hi>Baily</hi> in <hi>Dininuo</hi> Paroch, <hi>James Grieve</hi> in <hi>St. Andrews, Andrew Kenneir</hi> there, <hi>James Louthian</hi> in <hi>Kings-barns,</hi> Mr. <hi>James Bonner</hi> of <hi>Greigſtoun, John Scot</hi> in <hi>Lathones,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lady <hi>Collerny,</hi> and <hi>David</hi> and <hi>Alexander Cambels</hi> in <hi>Kirkaldy.</hi> And ſiklike upon the twenty ninth day of <hi>July,</hi> the ſaid year 1674 the perſons underwritten, <hi>Viz. William Livingſtoun</hi> of <hi>Greenyards,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Ferquharſon</hi> of <hi>Shielbrae,</hi> were at the Mercat Croſſe of <hi>Stirling</hi> orderly denounced Our Rebels, and put to Our Horn, by vertue of Letters of denounci<g ref="char:EOLhyphen"/>ation raiſed, uſed and execute at the inſtance of Our ſaid Advocat, for Our intereſt; for their not compearing perſonally before the Lords of Our Privy Council upon the ſixteenth day of <hi>July,</hi> the ſaid year 1674. to have anſwered and underlyen the Law, for their keeping and and being preſent at Houſe and Field Conventicles, at <hi>Torwood, Cowie, Airth, Froſk, Carbrock,</hi> or in or about one or other of theſe places, where they heard Mr. <hi>John Welſh,</hi> Mr. <hi>Gabriel Sempil,</hi> Mr. <hi>Samuel Arnot,</hi> and ſome other outed Miniſters, or one or other of them; And for inviting and convocating divers perſons to the ſaids Conventicles, and for ſupplying, harbouring, entertaining or correſponding with the ſaids outed Miniſters and divers others Our Rebels, in the moneths of <hi>May,</hi> and <hi>June</hi> 1674. Contrair to the Laws and Acts of Parli<g ref="char:EOLhyphen"/>ament made thereagainſt, in manner and at length mentioned in the principal complaint raiſed againſt them thereanent: As alſo upon the twenty two, twenty ſeventh and twenty ninth days of <hi>Auguſt,</hi> and ſecond day of <hi>November,</hi> the ſaid year 1674 The perſons underwrit<g ref="char:EOLhyphen"/>ten were at the Mercat Croſſes of <hi>Edinburgh, Dumbartoun,</hi> and <hi>Perth,</hi> orderly denounced Our Rebels and put to Our Horn, by vertue of Letters of denounciation, raiſed, uſed and execute at the inſtance of Our ſaid Advocat, for Our intereſt; for their not compearing perſonally before the Lords Commiſſioners of Our Privy Council at <hi>Stirling,</hi> upon the eigteenth day of <hi>Auguſt,</hi> and ninth day of <hi>September,</hi> the ſaid year 1674. To have anſwered and underlyen the Law; for their being preſent at Houſe and Field Conventicles, and withdrawing themſelves from the publick ordinances in their own Paroch Churches, for having had their children baptized at theſe diſorderly meetings, or for having invited outed Miniſters to intrude and invade Pulpits, and having convocat people to hear them therein, or having heard them themſelves; At the leaſt, for harbouring, reſetting, ſupplying or corroſponding with Mr. <hi>John Welſh,</hi> and other declared Rebel, and Traitors, in <hi>April, May, June</hi> and <hi>July,</hi> the ſaid year 1674. Contrair to the Laws and Acts of Parliament made thereagainſt, in manner and at length mentioned in the principal complaint raiſed againſt them thereanent, <hi>Viz. James Sumervail</hi> at the boat of <hi>Cardroſs, Hary Dow</hi> of <hi>Weſterpolder,</hi> Mr. <hi>John King</hi> Chaplain to the Lord <hi>Cardroſs, John Doik</hi> portioner of <hi>Murdiſtoun,</hi> the Lady <hi>Pettendr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich</hi> in <hi>Logi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Paroch, <hi>Robert Fork</hi> portioner of <hi>Kilpatrik, James Muir</hi> portioner of <hi>Burdiſtoun,</hi> and <hi>John Starks</hi> elder and younger, of <hi>Balknock.</hi> As alſo upon the twenty ſeventh, twenty eight and twenty ninth days of <hi>October</hi> 1674. the perſons underwritten were at the Mercat Croſſes of <hi>Cowper</hi> in <hi>Fyffe, St. Andrews</hi> and <hi>Dum<g ref="char:EOLhyphen"/>fermling</hi> orderly denounced Our Rebels, and put to Our Horn, by vertue of Letters of denounciation, raiſed, uſed and execute at the inſtance of Our ſaid Advocat, for Our intereſt, againſt them, for their not compearing perſonally before the Lords Commiſſioners of Our Privy Council at <hi>Cowper</hi> of <hi>Fyffe,</hi> upon the fifteenth day of <hi>September,</hi> the ſaid year 1674. To have anſwered and underlyen the Law; for their be<g ref="char:EOLhyphen"/>ing preſent at Houſe and Field Conventicles, and their withdrawing from the publick ordinances in their own Paroch Churches, for having had children baptized at theſe diſorderly meetings; at the leaſt, for having invite d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>outed Miniſters to intrude and invade Pulpits; and having convocat people to hear them therein, or having heard them themſelves, at the leaſt, for harbouring, reſetting, ſupplying or corroſpon<g ref="char:EOLhyphen"/>ding with Mr. <hi>John Welſh,</hi> and other declared Rebels and traitores, in <hi>April, May, June</hi> and <hi>July,</hi> the ſaid year 1674. Conetrar to the Laws and Acts of Parliament made thereagainſt, in manner and at length mentioned in the principal complaint, raiſed againſt them thereanent <hi>Viz.</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Symer</hi> of <hi>Brathnes, William Crawford</hi> of <hi>Powmilne, John Lundy</hi> of <hi>Baldeſtard,</hi> Mr. <hi>James Lentron</hi> and <hi>Helen Inglis</hi> his ſpouſe, <hi>John Collier</hi> of <hi>Lochgelly,</hi> Dame <hi>Anna Riddel,</hi> Lady <hi>Collerny.</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ladies <hi>
+                  <g ref="char:V">Ʋ</g>nthankes</hi> elder and younger, <hi>John Fairful</hi> of <hi>Kinloch,</hi> and Dame <hi>Margaret Ferquhard,</hi> Lady <hi>Halhill.</hi> And ſiklike upon the twenty fourth day of <hi>September</hi> the ſaid year 1674. The perſons underwritten, <hi>Viz.</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Hamiltoun</hi> relict of <hi>Francis Galloway</hi> of <hi>Todſhough, Simeon Al<g ref="char:EOLhyphen"/>exander</hi> fewar and tennent in <hi>Kirkliſtoun,</hi> and <hi>James Wilkie</hi> tennent in <hi>Cliftounhal,</hi> were orderly denounced Our Rebels, and put to Our Horn, by vertue of Letter of denounciation, raiſed uſed, and execute, at the inſtance of Our ſaid Advocat, for Our intereſt, againſt them; for their not compearing perſonally before the Lords Commiſſioners of Our Privy Council at <hi>Edinburgh,</hi> upon the ſixteenth day of <hi>September</hi> 1674. To have anſwered and underlyen the Law, for their being preſent at Houſe and Field Conventicles, and with<g ref="char:EOLhyphen"/>drawing from the publick ordinances in their own Paroch Churches, and having had their children baptized in theſe diſorderly meetings, and for their inviting outed Miniſters, to Preach thereat, and convocating people thereto, and for harbouring, reſetting, ſupplying and corro<g ref="char:EOLhyphen"/>ſponding with certain outed Miniſters, declared Rebels and traitors, in <hi>April, May, June, July, Auguſt</hi> and <hi>September,</hi> the ſaid year 1674, Contrair to the Laws and Acts of Parliament made thereagainſt, in manner and at length mentioned in the principal complaint raiſed againſt them thereanent; as the ſaid reſpective Letters of denounciation above written duely execute and regiſtrate (conform to the Act of Parliament) produced in preſence of Our Privy Council, bears. At the proces of which Horn the forenamed perſons lye and remain, taking no regard thereof, nor of Our Authority and Laws; and are encouraged to continue in their Rebellion, by the reſet, ſupply and intercommuning, which they have with ſeveral of their friends and acquaintances, to the high contempt of Us, Our Authority and Laws. <hi>OUR WILL</hi> is herefore, and We charge you ſtraitly, and Commands that in continent thir Our letters, ſeen ye paſſe to the Mer<g ref="char:EOLhyphen"/>cat Croſſes of <hi>Edinburgh, Haddingtoun, Lanerk, Cowper, Perth, Dumfermling, Stirling, Glaſgow, Linlithgow,</hi> and other places need<g ref="char:EOLhyphen"/>ful; and thereat in Our Name and Authority, command and charge all, and ſundry Our Leiges, and Subjects, that they, nor none of them preſume nor take upon hand to reſet, ſupply, or intercommune with any of the foreſaids perſons Our Rebels, for the cauſes foreſaids; nor furniſh them with meat, drink, houſe, harbour, victual, nor no other thing uſeful, nor comfortable to them; or have intelligence with them by word, writ, or meſſage, or any other manner of way, under the pain to be repute and eſteemed airt and part with them, in the crimes foreſaids, and purſued therefore with all rigor, to the terror of others. Requiring hereby all Sheriffs, Stewards, Bailies of Regalities, and Bailiries, and their Deputs, and Magiſtrates of Burghs, to apprehend and commit to priſon any of the perſons above written, Our Re<g ref="char:EOLhyphen"/>bels, whom they ſhall find within their reſpective juriſdictions, According to juſtice; as you will anſwer to Us thereupon. The which to do We commit to you, conjunctly and ſeverally, Our full power; by theſe Our letters, deiivering them by you duely execute, and in<g ref="char:EOLhyphen"/>dorſed again to the Bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the ſixth day of <hi>Auguſt,</hi> one thouſand ſix hundred ſeventy and five years, and of Our Reign, the twenty ſeventh year.</date>
+               </dateline> 
+               <hi>Per Actum Dominorum Secreti Concilii.</hi>
+               <signed>
+                  <hi>Al. Gibſon,</hi> Cl. Sti. Concilii.</signed> God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed by <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majesty:</hi> Anno DOM. 1675.</p>
+            <p>
+               <hi>CUM PRIVILEGIO.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
